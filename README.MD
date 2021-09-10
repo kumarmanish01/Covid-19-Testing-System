@@ -7,11 +7,13 @@ This web portal will help users to book an appointment and give the sample throu
 
 Screenshots of Homepage, Admin Dashboard and User appointment 
 ![Screenshot (274)](https://user-images.githubusercontent.com/61697945/132786696-ed74d34c-b3f2-4425-91d0-908da0e37dbc.png)
-![Screenshot (275)](https://user-images.githubusercontent.com/61697945/132786701-c7ad5333-00c8-4d6f-aa6a-9c9d64e64cd4.png)
 ![Screenshot (276)](https://user-images.githubusercontent.com/61697945/132786702-550abd62-ce01-41b7-88d4-43442c3a5670.png)
 ![Screenshot (277)](https://user-images.githubusercontent.com/61697945/132786705-1ca41fd5-3bec-48d8-92e4-eccdec23549d.png)
 ![Screenshot (278)](https://user-images.githubusercontent.com/61697945/132786708-7b200422-6f45-4143-bfe8-0d5354bc2420.png)
-![Screenshot (279)](https://user-images.githubusercontent.com/61697945/132786710-32ea3212-31ef-4166-a0b8-29326005eac3.png)
+![Screenshot (347)](https://user-images.githubusercontent.com/61697945/132787561-4cd7148c-ab90-4255-9461-ea137a3a553c.png)
+![Screenshot (348)](https://user-images.githubusercontent.com/61697945/132787569-5539623c-4bec-49aa-a04f-412c5b0d2af9.png)
+![Screenshot (350)](https://user-images.githubusercontent.com/61697945/132787571-df6ac2e4-c599-4620-bb97-41fd2ed074d9.png)
+
 
 Features:
 1. Users can make appointment for sample collection for the Covid related test.
@@ -30,3 +32,5 @@ Technology User:
 -> Font End: HTML, CSS, JS
 -> Back End: PHP
 -> Database: MySQL
+
+
