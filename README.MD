@@ -32,8 +32,6 @@ Modules:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Technology User:
-![78-787343_html5-css-javascript-html-css-js-icon-hd](https://user-images.githubusercontent.com/61697945/132789096-a636b8b1-5af5-4637-8efe-2f08ccb556b8.png)
-
 -> Font End: HTML, CSS, JS
 -> Back End: PHP
 -> Database: MySQL
